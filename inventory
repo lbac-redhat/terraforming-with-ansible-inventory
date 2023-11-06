@@ -1,2 +1,2 @@
-machine1 ansible_host=192.168.122.158
-machine2 ansible_host=192.168.122.32
+machine1 ansible_host=192.168.122.5
+machine2 ansible_host=192.168.122.191
